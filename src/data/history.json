@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Fullstack Engineer",
+      "organisation": "Truecaller",
+      "startDate": "Jan, 2023",
+      "endDate": "Present",
+      "experiences": ["Office of the Chief Strategy Officer (CSO)", "Bootstrapped 3 software products"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Frontend Developer",
+      "organisation": "Hedvig",
+      "startDate": "Nov, 2021",
+      "endDate": "Jan, 2023",
+      "experiences": ["Engineered iOS app re-design", "Led a partnership campaign with Qasa.se"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Walmart",
+      "startDate": "Aug, 2018",
+      "endDate": "Nov, 2021",
+      "experiences": [
+        "Launched Sam's Club Pharmacy, and Opticals products on iOS",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
